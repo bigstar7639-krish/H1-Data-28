@@ -13,3 +13,6 @@ A: Steelport - Entertainment: Video Games
 Auto Quiz - Flight 🧠
 Q: Which of these is not a layer in the OSI model for data communications?
 A: Connection Layer - Science: Computers
+Auto Quiz - Phone 🧠
+Q: Which of these is NOT a song on The Beatles' 1968 self titled album, also known as the White album?
+A: Being For The Benefit Of Mr. Kite! - Entertainment: Music
