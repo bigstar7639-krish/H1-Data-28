@@ -86,3 +86,4 @@ Student - psychologypsytre0005nair - Psychology psytrek 3.0 student user guide w
 Student - isbn_9780964811331 - Student Workbook (Choices That Lead to Lifelong Success)
 Business - isbn_9780735533851 - TM: Business Organizations
 Business - georgeiiimadbusi0000idam - George III and the Mad-Business,
+Money - bwb_S0-AXX-331 - Stop burning your money
