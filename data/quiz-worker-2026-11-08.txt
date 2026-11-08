@@ -10,3 +10,6 @@ A: Top Gun - Entertainment: Film
 Auto Quiz - Train 🧠
 Q: What is the name of the City in Saints Row The Third?
 A: Steelport - Entertainment: Video Games
+Auto Quiz - Flight 🧠
+Q: Which of these is not a layer in the OSI model for data communications?
+A: Connection Layer - Science: Computers
