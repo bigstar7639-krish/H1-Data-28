@@ -61,3 +61,6 @@ A: SELECT - Science: Computers
 Auto Quiz - Nature 🧠
 Q: All the following metal elements are liquids at or near room temperature EXCEPT:
 A: Beryllium - Science & Nature
+Auto Quiz - Cat 🧠
+Q: What is the plane curve proposed by Descartes to challenge Fermat's extremum-finding techniques called?
+A: Folium of Descartes - Science: Mathematics
