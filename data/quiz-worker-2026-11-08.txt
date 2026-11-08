@@ -118,3 +118,6 @@ A: TRS-80 - Science: Computers
 Auto Quiz - Baby 🧠
 Q: In "Overwatch", what is the name of Mercy's "ultimate ability"?
 A: Valkyrie - Entertainment: Video Games
+Auto Quiz - Teacher 🧠
+Q: Which RAID array type is associated with data mirroring?
+A: RAID 1 - Science: Computers
