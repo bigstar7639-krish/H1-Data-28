@@ -87,3 +87,4 @@ Student - isbn_9780964811331 - Student Workbook (Choices That Lead to Lifelong S
 Business - isbn_9780735533851 - TM: Business Organizations
 Business - georgeiiimadbusi0000idam - George III and the Mad-Business,
 Money - bwb_S0-AXX-331 - Stop burning your money
+Money - bwb_Y0-BTG-489 - Kiplinger's CA-Simply Money
