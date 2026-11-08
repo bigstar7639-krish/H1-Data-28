@@ -26,3 +26,4 @@ Writing - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource B
 Writing - bwb_O8-ABL-216 - Adventures in Medical Writing
 Poetry - bwb_T4-ALI-190 - Rose and Poetry for Appreciation
 Poetry - bwb_Y0-CRJ-478 - An Anthology of French Poetry
+Singing - bwb_Y0-AGF-288 - Singing Teen-Agers Songs for the Youth
