@@ -55,3 +55,6 @@ A: Einstein - Entertainment: Japanese Anime & Manga
 Auto Quiz - Love 🧠
 Q: What is the largest animal currently on Earth?
 A: Blue Whale - Science & Nature
+Auto Quiz - God 🧠
+Q: Which SQL keyword is used to fetch data from a database?
+A: SELECT - Science: Computers
