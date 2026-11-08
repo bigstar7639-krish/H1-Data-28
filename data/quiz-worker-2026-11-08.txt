@@ -115,3 +115,6 @@ A: The Netherlands - General Knowledge
 Auto Quiz - Animal 🧠
 Q: Which of the following is the oldest of these computers by release date?
 A: TRS-80 - Science: Computers
+Auto Quiz - Baby 🧠
+Q: In "Overwatch", what is the name of Mercy's "ultimate ability"?
+A: Valkyrie - Entertainment: Video Games
