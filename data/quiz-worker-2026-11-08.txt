@@ -43,3 +43,6 @@ A: Blur - Entertainment: Music
 Auto Quiz - Poetry 🧠
 Q: Which musical instrument is nicknamed 'the clown of the orchestra'?
 A: Bassoon - Entertainment: Music
+Auto Quiz - Singing 🧠
+Q: What was the name of the protagonist in the movie Commando (1985)?
+A: John Matrix - Entertainment: Film
