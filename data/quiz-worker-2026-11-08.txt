@@ -79,3 +79,6 @@ A: Leif - Entertainment: Video Games
 Auto Quiz - Story 🧠
 Q: What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?
 A: Batman - Entertainment: Film
+Auto Quiz - Health 🧠
+Q: Which programming language shares its name with an island in Indonesia?
+A: Java - Science: Computers
