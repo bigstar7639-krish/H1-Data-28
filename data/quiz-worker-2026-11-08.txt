@@ -112,3 +112,6 @@ A: David Tennant - Entertainment: Television
 Auto Quiz - Sun 🧠
 Q: Coleslaw originated from which European country?
 A: The Netherlands - General Knowledge
+Auto Quiz - Animal 🧠
+Q: Which of the following is the oldest of these computers by release date?
+A: TRS-80 - Science: Computers
