@@ -82,3 +82,6 @@ A: Batman - Entertainment: Film
 Auto Quiz - Health 🧠
 Q: Which programming language shares its name with an island in Indonesia?
 A: Java - Science: Computers
+Auto Quiz - Music 🧠
+Q: 7-Eleven stores were temporarily converted into Kwik E-marts to promote the release of what movie?
+A: The Simpsons Movie - Entertainment: Film
