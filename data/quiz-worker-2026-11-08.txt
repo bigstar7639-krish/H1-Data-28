@@ -67,3 +67,6 @@ A: Folium of Descartes - Science: Mathematics
 Auto Quiz - Dog 🧠
 Q: Liam Howlett founded which electronic music group in 1990?
 A: The Prodigy - Entertainment: Music
+Auto Quiz - Food 🧠
+Q: What is the capital of the US state Nevada?
+A: Carson City - Geography
