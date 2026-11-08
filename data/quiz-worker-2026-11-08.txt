@@ -121,3 +121,6 @@ A: Valkyrie - Entertainment: Video Games
 Auto Quiz - Teacher 🧠
 Q: Which RAID array type is associated with data mirroring?
 A: RAID 1 - Science: Computers
+Auto Quiz - Student 🧠
+Q: Which city did the former NHL team "The Nordiques" originiate from?
+A: Quebec City - Sports
