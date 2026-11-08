@@ -85,3 +85,6 @@ A: Java - Science: Computers
 Auto Quiz - Music 🧠
 Q: 7-Eleven stores were temporarily converted into Kwik E-marts to promote the release of what movie?
 A: The Simpsons Movie - Entertainment: Film
+Auto Quiz - Movie 🧠
+Q: Which building was set aflame on August 24th, 1812?
+A: The White House - History
