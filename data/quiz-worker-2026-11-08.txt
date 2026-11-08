@@ -70,3 +70,6 @@ A: The Prodigy - Entertainment: Music
 Auto Quiz - Food 🧠
 Q: What is the capital of the US state Nevada?
 A: Carson City - Geography
+Auto Quiz - Cricket 🧠
+Q: Which car tire manufacturer is famous for its "Eagle" brand of tires, and is the official tire supplier of NASCAR?
+A: Goodyear - Vehicles
