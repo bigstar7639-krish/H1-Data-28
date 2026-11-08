@@ -58,3 +58,6 @@ A: Blue Whale - Science & Nature
 Auto Quiz - God 🧠
 Q: Which SQL keyword is used to fetch data from a database?
 A: SELECT - Science: Computers
+Auto Quiz - Nature 🧠
+Q: All the following metal elements are liquids at or near room temperature EXCEPT:
+A: Beryllium - Science & Nature
