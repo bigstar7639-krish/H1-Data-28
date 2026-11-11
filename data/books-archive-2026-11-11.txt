@@ -234,3 +234,7 @@ Burger - bwb_T4-AJZ-274 - The Ham Burger Cookbook
 Burger - elviskingburger0000jott - The Elvis King-Burger
 Chocolate - faithgriefpassch0000wall - Faith, Grief and Pass the Chocolate Pudding
 Chocolate - chocolatewar0000robe - The chocolate war
+Fruit - bwb_T3-BSD-639 - so good with fruit
+Fruit - bwb_C0-ARO-969 - A Fruit Is Born
+Vegetable - bwb_Y0-BWA-507 - america's best vegetable recipes, 666 ways to make vegetables irresistible
+Vegetable - downtoearthveget0000lacy - Down to Earth Vegetable Gardening Down South
