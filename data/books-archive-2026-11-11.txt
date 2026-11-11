@@ -216,3 +216,5 @@ Wisdom - isbn_9781410747990 - Wisdom from Childhood
 Wisdom - bwb_S0-BJT-978 - Let Wisdom Judge
 Power - isbn_9780977294701 - Power Steps
 Power - isbn_9780765234308 - COMPREHENSION POWER READERS LOBSTERING GRADE FOUR 2004C
+Luck - bwb_KV-001-121 - Luciano's Luck
+Luck - pieceofluckother0000fran - A Piece of Luck and other Stories
