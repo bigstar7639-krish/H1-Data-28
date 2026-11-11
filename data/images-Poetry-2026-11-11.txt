@@ -28,3 +28,5 @@ Poetry - Wikimedia - https://commons.wikimedia.org/wiki/File:At_the_sound_of_the
 Poetry - Openverse - https://www.flickr.com/photos/76809776@N00/3488536323
 Poetry - Wikimedia - https://commons.wikimedia.org/wiki/File:Thanksgiving_in_Poetry_(1923_alternate_scan,_binding).pdf
 Poetry - Unsplash - https://source.unsplash.com/800x600/?Poetry%20rain
+Poetry - Wikimedia - https://commons.wikimedia.org/wiki/File:A_book_of_New_England_legends_and_folk_lore_in_prose_and_poetry_(IA_bookofnewengland00dra).pdf
+Poetry - Wikimedia - https://commons.wikimedia.org/wiki/File:At_the_sound_of_the_sunset_gun_(NYPL_Hades-610053-1800451).jpg
