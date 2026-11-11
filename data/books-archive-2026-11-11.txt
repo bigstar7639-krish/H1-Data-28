@@ -154,3 +154,7 @@ Baby - expectingrancher0000gold - Expecting the rancher's baby
 Animal - im-an-animal_202201 - Im An Animal
 Animal - animalkingdom0000rene - The Animal Kingdom
 Baby - keralalegislativeassembly.proceedings.485952 - Incident about Death of Mother and Baby Related to Delivery / പ്രസവത്തോടനുബന്ധിച്ച് അമ്മയും കുഞ്ഞും മരണപ്പെട്ടത് സംബന്ധിച്ച്
+Teacher - bwb_C0-BPX-797 - teacher, teacher, I done it! I done it! I done done it!
+Teacher - bwb_S0-CBG-611 - The Discrenible Teacher
+Student - bwb_S0-DNM-028 - High school student book
+Student - bwb_S0-BWW-323 - Webster's New World Dictionary with Student Handbook
