@@ -683,3 +683,23 @@ Q+A Katha - Phone 🧠
 Question: Which English football club has the nickname 'The Foxes'?
 
 Answer: Leicester City - Sports. Itha kelvi Phone pathi - Answer Leicester City. Phone pathi kelvi patta oru ponnu, ava daily Phone pathi yosichittu iruntha, oru naal ava oru puthu book padichu Phone oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Phone ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Phone la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Computer 🧠
+
+Question: The Canadian $1 coin is colloquially known as a what?
+
+Answer: Loonie - General Knowledge. Itha kelvi Computer pathi - Answer Loonie. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Computer pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Computer la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Computer oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Book 🧠
+
+Question: Which of the following battles is often considered as marking the beginning of the fall of the Western Roman Empire?
+
+Answer: Battle of Adrianople - History. Itha kelvi Book pathi - Answer Battle of Adrianople. Book pathi kelvi patta oru ponnu, ava daily Book pathi yosichittu iruntha, oru naal ava oru puthu book padichu Book oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Book ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Book la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Kavithai 🧠
+
+Question: Who was the first ever actor to play "The Doctor" on "Doctor Who"?
+
+Answer: William Hartnell - Entertainment: Television. Itha kelvi Kavithai pathi - Answer William Hartnell. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Kavithai pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Kavithai la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Kavithai oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Thirukkural 🧠
+
+Question: In what year did the Wall Street Crash take place?
+
+Answer: 1929 - History. Itha kelvi Thirukkural pathi - Answer 1929. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Thirukkural pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Thirukkural la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Thirukkural oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
