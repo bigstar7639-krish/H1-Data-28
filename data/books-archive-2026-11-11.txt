@@ -272,3 +272,11 @@ Flight - bwb_C0-AQJ-013 - flight maneuvers complete programmed course
 Flight - bwb_W9-BGH-193 - Training to fly military flight training 1907-1945
 Phone - isometric-gradient-3d-mobile-phone-background - isometric-gradient-3d-mobile-phone-background
 Phone - PhoneDoctor_20170313 - Phone Doctor
+Computer - computerbasedtra0000hila - Computer-based Training of Cannon Fire Direction Specialists
+Computer - computerdatabase0000lawr - A Computer Data Base System for Indexing Research Papers
+Book - bwb_T3-BRL-524 - A Study of the Book of Acts
+Book - bwb_S0-BWV-057 - Fish and Game Cook Book
+Kavithai - cbfc-ecinepramaan-100030291800001735 - KADHAL KAVITHAI
+Kavithai - kankal-sollum-kavithai - Kankal Sollum Kavithai
+Thirukkural - saurashtra-thirukkural - Saurashtra Thirukkural
+Thirukkural - TNLA-DB-5-1974-10-46-4-QH22_1974-01-22 - Thirukkural as a National Book
