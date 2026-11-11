@@ -262,3 +262,5 @@ Lion - bwb_S0-EKQ-267_13 - Funk & Wagnalls Standard Reference Encyclopedia Henry
 Lion - LeGrandMasqueJuifOuLneDansLaPeauDuLion193649p - Le Grand Masque Juif Ou L'âne Dans La Peau Du Lion 1936 ( 49p)
 Horse - bwb_S0-BIX-602 - The QUARTER HORSE BREEDER
 Horse - bwb_T5-CWP-283 - stand to horse
+Bike - bwb_S0-BCA-106 - Hit the Bike Trail
+Bike - bikehealthyhowcy0000andr - Bike healthy : how cycling will help you look good, feel good and quite possibly live longer
