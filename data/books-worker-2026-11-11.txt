@@ -251,3 +251,5 @@ Sleep - Sleeping Murder
 Beauty - Black Beauty
 Beauty - The Beautiful and Damned
 Beauty - Beauty
+Fashion - An Old-Fashioned Girl
+Fashion - Patternmaking for fashion design
